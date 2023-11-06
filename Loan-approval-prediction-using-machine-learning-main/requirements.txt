@@ -11,4 +11,3 @@ seaborn
 pandas
 pickleshare
 matplotlib
-sklearn
