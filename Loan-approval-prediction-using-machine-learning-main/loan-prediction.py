@@ -200,7 +200,7 @@ text-align: center;
 
 </style>
 <div class="footer">
-<p>&copy; 2023 <a href="https://www.linkedin.com/in/ali-abdallah7/"> Varad Agarwal</a></p>
+<p>&copy; 2023 <a href="https://www.linkedin.com/in/varad-agarwal-a48842226/"> Varad Agarwal</a></p>
 </div>
 """
 st.markdown(footer,unsafe_allow_html=True)
