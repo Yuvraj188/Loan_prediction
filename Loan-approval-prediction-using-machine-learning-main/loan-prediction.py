@@ -138,7 +138,7 @@ with st.container():
     with right_column:
 
         st.write('_For any issue contact me via :_')
-        st.info('[LinkedIn](https://www.linkedin.com/in/varad-agarwal-a48842226/)', icon="📩")
+        st.info('[LinkedIn](https://www.linkedin.com/in/manish-singh-b4a1a6256?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)', icon="📩")
         # st.info('[Whatsapp](https://wa.me/+201126880776)', icon="📲")
 
     with left_column:
@@ -200,7 +200,7 @@ text-align: center;
 
 </style>
 <div class="footer">
-<p>&copy; 2023 <a href="https://www.linkedin.com/in/varad-agarwal-a48842226/"> Varad Agarwal</a></p>
+<p>&copy; 2023 <a href="https://www.linkedin.com/in/manish-singh-b4a1a6256?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app"> Manish Singh Chouhan</a></p>
 </div>
 """
 st.markdown(footer,unsafe_allow_html=True)
