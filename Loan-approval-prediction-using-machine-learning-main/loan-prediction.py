@@ -2,7 +2,7 @@ import streamlit as st
 import requests
 from streamlit_lottie import st_lottie
 import joblib
-import numpy as np 
+import numpy as np  
 from PIL import Image 
 
 image = Image.open("funding.png")
