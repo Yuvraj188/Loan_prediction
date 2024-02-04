@@ -4,7 +4,7 @@ from streamlit_lottie import st_lottie
 import joblib
 import numpy as np        
 from PIL import Image     
-
+ 
 image = Image.open("funding.png")
 st.set_page_config(page_title='Loan Prediction', page_icon=image)
 
