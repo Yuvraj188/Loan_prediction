@@ -1,7 +1,7 @@
 import streamlit as st  
 import requests 
 from streamlit_lottie import st_lottie
-import joblib
+import joblib 
 import numpy as np         
 from PIL import Image     
  
