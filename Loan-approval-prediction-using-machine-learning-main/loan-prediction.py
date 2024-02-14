@@ -1,5 +1,5 @@
 import streamlit as st   
-import requests   
+import requests    
 from streamlit_lottie import st_lottie
 import joblib 
 import numpy as np         
